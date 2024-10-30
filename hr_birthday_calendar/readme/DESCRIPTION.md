@@ -1,0 +1,1 @@
+This module allows you to view the birthdays of all employees in a calendar view.

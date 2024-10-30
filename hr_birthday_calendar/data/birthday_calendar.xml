@@ -5,7 +5,7 @@
     <field name="active" eval="True" />
     <field name="arch" type="xml">
       <data>
-        <xpath expr="//field[@name='work_location']" position="after">
+        <xpath expr="//field[@name='work_location_id']" position="after">
           <field name="birthday_public" />
         </xpath>
       </data>
@@ -43,6 +43,13 @@
     <field name="target">current</field>
     <field name="type">ir.actions.act_window</field>
     <field name="view_mode">kanban,tree,form,calendar</field>
+  </record>
+
+    <record id="hr_employee_personal_menu" model="ir.ui.menu">
+    <field name="name">Personal</field>
+    <field name="parent_id" ref="hr.menu_hr_root" />
+    <field name="action" ref="hr.hr_employee_public_action" />
+    <field name="sequence" eval="10" />
   </record>
 
 </odoo>
