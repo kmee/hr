@@ -28,6 +28,7 @@ setuptools.setup(
         'odoo-addon-hr_employee_partner_external>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_phone_extension>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_phone_pin>=16.0dev,<16.1dev',
+        'odoo-addon-hr_employee_ppe>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_relative>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_service>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_service_contract>=16.0dev,<16.1dev',
