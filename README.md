@@ -43,6 +43,7 @@ addon | version | maintainers | summary
 [hr_employee_phone_pin](hr_employee_phone_pin/) | 16.0.1.0.0 | [![arielbarreiros96](https://github.com/arielbarreiros96.png?size=30px)](https://github.com/arielbarreiros96) | Employee Phone PIN
 [hr_employee_relative](hr_employee_relative/) | 16.0.1.0.0 |  | Allows storing information about employee's family
 [hr_employee_service](hr_employee_service/) | 16.0.1.0.0 |  | Employee service information & duration
+[hr_employee_service_contract](hr_employee_service_contract/) | 16.0.1.0.0 |  | Employee service information & duration based on employee's contracts
 [hr_employee_ssn](hr_employee_ssn/) | 16.0.1.0.0 |  | View/edit employee's SSN & SIN fields
 [hr_holidays_team_manager](hr_holidays_team_manager/) | 16.0.1.0.0 |  | HR Holidays Team Manager
 [hr_personal_equipment_request](hr_personal_equipment_request/) | 16.0.1.0.0 |  | This addon allows to manage employee personal equipment
